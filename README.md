@@ -3,7 +3,7 @@
 ## Installation
 ```
 git clone --recursive https://github.com/yujp/php-micro-mvc-skelton.git
-cd php-micro-mvc-skelton
+cd php-micro-mvc-skelton/system
 composer dump-autoload
 ```
 
