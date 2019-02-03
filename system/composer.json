@@ -1,0 +1,7 @@
+{
+	"autoload" : {
+		"classmap": [
+			"vendor/php-micro-mvc/src"
+		]
+	}
+}

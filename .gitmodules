@@ -1,0 +1,3 @@
+[submodule "system/vendor/php-micro-mvc"]
+	path = system/vendor/php-micro-mvc
+	url = https://github.com/yujp/php-micro-mvc
